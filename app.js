@@ -8,7 +8,7 @@ const helmet = require('helmet')
 const app = express();
 
 
-mongoose.connect('mongodb+srv://so-pekockoClient:GbhhXSNhgtXLyRd0@sopekocko.eqm96.mongodb.net/sopekocko?retryWrites=true&w=majority',
+mongoose.connect('mongodb+srv://dwain:kc92CPEJ4su9aWLB@sopekocko.eqm96.mongodb.net/sopekocko?retryWrites=true&w=majority',
 { useNewUrlParser: true,
   useUnifiedTopology: true,
   useCreateIndex: true
